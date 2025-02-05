@@ -1,3 +1,3 @@
 # Face-Mask-Detection-with-CNN-Deep-Learning-Models
 
-[!image](Facemask detection.jpeg)
+[!image](https://github.com/shreymukh2020/Face-Mask-Detection-with-CNN-Deep-Learning-Models/blob/main/Facemask%20detection.jpeg)
